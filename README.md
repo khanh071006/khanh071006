@@ -16,3 +16,6 @@
 🌍 **The languages I know are Vietnamese, English, and 日本語**
 
 ---
+<img src="https://raw.githubusercontent.com/khanh071006/khanh071006/output/snake.svg" alt="Snake animation" />
+
+###
