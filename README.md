@@ -1,16 +1,18 @@
-<h1 align="center">Hi 👋, I'm Khanh Dong Gia</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khanh071006&label=Profile%20views&color=0e75b6&style=flat" alt="khanh071006" /> </p>
+# 👋 Hello! I'm Khanh Dong Gia
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khanh071006" alt="khanh071006" /></a> </p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=IT-E6+K69+HUST;Genius+is+1%25+talent%2C;And+99%25+percent+hard+work!" alt="Typing SVG" /></a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khanh071006&show_icons=true&locale=en&layout=compact" alt="khanh071006" /></p>
+---
+## 💫 About Me
+🌱 **I'm Khanh Dong Gia (Đồng Gia Khánh in Viet Nam ⭐ and トン・ジャ・カイン in Japan 🗾)**  
+🎓 **I am a student of IT-E6: Vietnam – Japan Information Technology, Hanoi University of Science and Technology.**  
+🛠️ **I am interested in AIoT, Software Engineering, and Application Development**   
+🎮 **My hobbies are football, badminton, coding, and listening to music**  
+🎵 **The music I like is V-pop and US-UK**  
+🌍 **The languages I know are Vietnamese, English, and 日本語**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khanh071006&show_icons=true&locale=en" alt="khanh071006" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khanh071006&" alt="khanh071006" /></p>
+---
