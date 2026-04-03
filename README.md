@@ -46,6 +46,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khanh071006&" alt="khanh071006" /></p>
 
 ***
+![snake gif](https://github.com/khanh071006/khanh071006/blob/output/github-contribution-grid-snake.svg)
 
 ### Connect with me
 <p align="left">
